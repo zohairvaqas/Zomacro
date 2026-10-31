@@ -1,5 +1,5 @@
 # Zo Macro
-THIS is my first attempt at electronics and so I built a macro pad.I always wanted to make electronics and even if this doesn't get approved by start dance hack club I will be happy as at least I have been able to achieve something.
+THIS is my first attempt at electronics and so I built a macro pad.I always wanted to make electronics and even if this doesn't get approved by stardance hack club I will be happy as at least I have been able to achieve something.
 
 <img width="932" height="552" alt="image (3)" src="https://github.com/user-attachments/assets/678edb30-d294-4a82-a42e-7077546814d5" />
 
